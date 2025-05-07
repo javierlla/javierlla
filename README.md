@@ -42,6 +42,3 @@ Bienvenido a mi perfil de GitHub. Soy estudiante de **42 Urduliz** y he completa
 - 📧 **Email:** [javierllarenard@gmail.com](mailto:javierllarenard@gmail.com)
 - 💼 **LinkedIn:** [Javier Llarena Rodríguez](https://www.linkedin.com/in/javier-llarena-rodr%C3%ADguez-7a1112240/)
 
----
-
-> *"Siempre estoy aprendiendo y buscando nuevos retos que mezclen la lógica de sistemas con el diseño funcional del software."*
