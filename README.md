@@ -54,7 +54,7 @@ Bienvenido a mi perfil de GitHub. Soy estudiante de **42 Urduliz** y he completa
 - 🕹️ **Cub3D** – Motor gráfico en 3D con raycasting en C  
 - ⚙️ **Pomello** – Proyecto Fullstack con backend en Express + Mongoose (MongoDB) y frontend en React. Aplicación de gestión con autenticación y CRUD completo  
 - 🌐 **MapinGO** – Proyecto frontend con React, CSS y consumo de APIs para mostrar ubicaciones y datos interactivos  
-- 🔧 **Backend con Express** – API REST con Sequelize, MySQL y Docker, estructurada en MVC  
+- 🔧 **MedTrack** – API REST con Sequelize, MySQL y Docker, estructurada en MVC  
 
 ---
 
